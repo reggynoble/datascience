@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dfa133b1-ea78-47a6-8d53-59260eeed9fa" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/ragwaranalytics/static/css/interactions.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ragwaranalytics/static/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ragwaranalytics/static/img/camera.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ragwaranalytics/static/img/download.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ragwaranalytics/static/img/photos/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ragwaranalytics/static/img/photos/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ragwaranalytics/static/img/photos/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ragwaranalytics/static/img/photos/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ragwaranalytics/static/img/photos/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ragwaranalytics/static/img/photos/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ragwaranalytics/templates/entrypointapp/homepage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ragwaranalytics/templates/entrypointapp/img/camera.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ragwaranalytics/templates/entrypointapp/img/download.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ragwaranalytics/templates/entrypointapp/img/photos/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ragwaranalytics/templates/entrypointapp/img/photos/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ragwaranalytics/templates/entrypointapp/img/photos/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ragwaranalytics/templates/entrypointapp/img/photos/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ragwaranalytics/templates/entrypointapp/img/photos/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ragwaranalytics/templates/entrypointapp/img/photos/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ragwaranalytics/templates/entrypointapp/static/css/interactions.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ragwaranalytics/templates/entrypointapp/static/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ragwaranalytics/templates/entrypointapp/static/img/camera.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ragwaranalytics/templates/entrypointapp/static/img/download.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ragwaranalytics/templates/entrypointapp/static/img/photos/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ragwaranalytics/templates/entrypointapp/static/img/photos/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ragwaranalytics/templates/entrypointapp/static/img/photos/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ragwaranalytics/templates/entrypointapp/static/img/photos/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ragwaranalytics/templates/entrypointapp/static/img/photos/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ragwaranalytics/templates/entrypointapp/static/img/photos/6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django-Music-Website/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Django-Music-Website/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django-Music-Website/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Django-Music-Website/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ragwaranalytics/entrypointapp/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/ragwaranalytics/entrypointapp/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ragwaranalytics/entrypointapp/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/ragwaranalytics/entrypointapp/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ragwaranalytics/entrypointapp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/ragwaranalytics/entrypointapp/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ragwaranalytics/ragwaranalytics/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/ragwaranalytics/ragwaranalytics/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ragwaranalytics/ragwaranalytics/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/ragwaranalytics/ragwaranalytics/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ragwaranalytics/templates/entrypointapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ragwaranalytics/templates/entrypointapp/index.html" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Django-Music-Website/music/templates/music/album_form.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Django-Music-Website/music/templates/music/detail.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Django-Music-Website/music/templates/music/form-template.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Django-Music-Website/music/templates/music/index.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Django-Music-Website/music/templates/music/registration_form.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Django-Music-Website/music/templates/music/base.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ragwardata/src/main/java/com/ragwardata/ragwardata/RagwardataApplication.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Django-Music-Website/music/static/music/site.css">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ragwardata/build.gradle">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Django-Music-Website" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/polls/views.py" />
+        <option value="$PROJECT_DIR$/polls/url.py" />
+        <option value="$PROJECT_DIR$/polls/urls.py" />
+        <option value="$PROJECT_DIR$/ragwaranalytics/urls.py" />
+        <option value="$PROJECT_DIR$/ragwaranalytics/settings.py" />
+        <option value="$PROJECT_DIR$/polls/models.py" />
+        <option value="$PROJECT_DIR$/polls/admin.py" />
+        <option value="$USER_HOME$/PycharmProjects/theblock401/venv/Lib/site-packages/django/db/models/query.py" />
+        <option value="$PROJECT_DIR$/ragwaranalytics/entrypointapp/urls.py" />
+        <option value="$PROJECT_DIR$/../apikeys/apikeys.txt" />
+        <option value="$PROJECT_DIR$/ragwaranalytics/ragwaranalytics/settings.py" />
+        <option value="$PROJECT_DIR$/ragwaranalytics/ragwaranalytics/urls.py" />
+        <option value="$PROJECT_DIR$/ragwaranalytics/templates/entrypointapp/homepage.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="105" />
+    <option name="width" value="2049" />
+    <option name="height" value="1455" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ragwaranalytics" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ragwaranalytics" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ragwaranalytics" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ragwaranalytics" type="462c0819:PsiDirectoryNode" />
+              <item name="ragwaranalytics" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ragwaranalytics" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ragwaranalytics" type="462c0819:PsiDirectoryNode" />
+              <item name="ragwardata" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ragwaranalytics" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ragwaranalytics" type="462c0819:PsiDirectoryNode" />
+              <item name="ragwardata" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ragwaranalytics" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ragwaranalytics" type="462c0819:PsiDirectoryNode" />
+              <item name="ragwardata" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ragwaranalytics" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ragwaranalytics" type="462c0819:PsiDirectoryNode" />
+              <item name="ragwardata" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ragwaranalytics" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ragwaranalytics" type="462c0819:PsiDirectoryNode" />
+              <item name="ragwardata" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ragwaranalytics" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ragwaranalytics" type="462c0819:PsiDirectoryNode" />
+              <item name="ragwardata" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="ragwardata" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ragwaranalytics" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ragwaranalytics" type="462c0819:PsiDirectoryNode" />
+              <item name="ragwardata" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="ragwardata" type="462c0819:PsiDirectoryNode" />
+              <item name="ragwardata" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ragwaranalytics" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="ragwaranalytics" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../django/Django-Python-Full-Stack-Web-Devloper-master/TravlersDayOneandTwo" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\ragwaranalytics\ragwaranalytics\templates\entrypointapp" />
+      <recent name="C:\ragwaranalytics\ragwaranalytics\static" />
+      <recent name="C:\ragwaranalytics\ragwaranalytics\static\css" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dfa133b1-ea78-47a6-8d53-59260eeed9fa" name="Default" comment="" />
+      <created>1545529222419</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1545529222419</updated>
+      <workItem from="1549182482183" duration="469000" />
+      <workItem from="1549416233014" duration="7358000" />
+      <workItem from="1549671594316" duration="54548000" />
+      <workItem from="1551636581884" duration="1796000" />
+      <workItem from="1553277097001" duration="152000" />
+      <workItem from="1556506224629" duration="582000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="64905000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1519" height="977" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23009446" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.18343195" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3298611" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="SciView" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/polls/admin.py" />
+    <entry file="file://$PROJECT_DIR$/polls/apps.py" />
+    <entry file="file://$PROJECT_DIR$/polls/views.py" />
+    <entry file="file://$PROJECT_DIR$/polls/tests.py" />
+    <entry file="file://$PROJECT_DIR$/polls/urls.py" />
+    <entry file="file://$PROJECT_DIR$/polls/migrations/0001_initial.py" />
+    <entry file="file://$PROJECT_DIR$/dataprojects/pandadatamanipulation.ipynb" />
+    <entry file="file://$PROJECT_DIR$/ragwaranalytics/settings.py" />
+    <entry file="file://$USER_HOME$/PycharmProjects/theblock401/venv/Lib/site-packages/django/db/models/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8024">
+          <caret line="504" column="8" selection-start-line="504" selection-start-column="8" selection-end-line="504" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/theblock401/venv/Lib/site-packages/django/db/models/query.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3927">
+          <caret line="255" column="21" selection-start-line="255" selection-start-column="21" selection-end-line="255" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ragwaranalytics/entrypointapp/admin.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../apikeys/apikeys.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ragwaranalytics/entrypointapp/migrations/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ragwaranalytics/manage.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ragwaranalytics/entrypointapp/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ragwaranalytics/entrypointapp/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ragwaranalytics/ragwaranalytics/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+          <folding>
+            <element signature="e#639#671#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ragwaranalytics/ragwaranalytics/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-37">
+          <caret line="57" column="17" selection-start-line="57" selection-start-column="17" selection-end-line="57" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ragwaranalytics/static/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1292">
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ragwaranalytics/static/css/interactions.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ragwaranalytics/static/img/photos/3.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ragwaranalytics/templates/entrypointapp/static/css/main.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ragwaranalytics/templates/entrypointapp/homepage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-493">
+          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ragwaranalytics/static/img/photos/2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ragwaranalytics/static/img/photos/1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ragwaranalytics/static/img/photos/4.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ragwaranalytics/static/img/photos/5.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ragwaranalytics/static/img/photos/6.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ragwaranalytics/static/img/camera.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ragwaranalytics/static/img/download.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ragwaranalytics/templates/entrypointapp/img/photos/1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ragwaranalytics/templates/entrypointapp/img/photos/2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ragwaranalytics/entrypointapp/apps.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ragwaranalytics/entrypointapp/models.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ragwaranalytics/templates/entrypointapp/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ragwaranalytics/entrypointapp/tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Django-Music-Website/music/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Django-Music-Website/music/tests.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Django-Music-Website/music/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Django-Music-Website/music/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Django-Music-Website/music/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-153">
+          <folding>
+            <element signature="e#0#70#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Django-Music-Website/music/templates/music/form-template">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Django-Music-Website/music/templates/music/album_form.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Django-Music-Website/music/templates/music/detail.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Django-Music-Website/music/templates/music/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Django-Music-Website/music/templates/music/registration_form.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Django-Music-Website/music/templates/music/base.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ragwardata/src/main/java/com/ragwardata/ragwardata/RagwardataApplication.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Django-Music-Website/music/static/music/site.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ragwardata/build.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Django-Music-Website/music/templates/music/form-template.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,11 @@
+Dumy1,Dumy2,Dumy3,,,,,,,,,,,,,,,,,,,,,
+Dumy2,Dumy3,Dumy4,,,,,,,,,,,,,,,,,,,,,
+Dumy3,,,,,,,,,,,,,,,,,,,,,,,
+Dumy4,,,,,,,,,,,,,,,,,,,,,,,
+Loomis_Account_Name, Bank Account,Break Type-Separate Accounts,Security,Description,Local Curr,Qty Loomis,Qty Bank,Qty Var,Local Prc Loomis,  Local Prc Bank ,Prc Var (%),Base MV Loomis,Base MV Bank,MV Var,MV Var(%),Base Cost Loomis,Base Cost  Bank,Cost Var,Base Accr Loomis,Base Accr Bank,Accr Var (%),Basis_Pt (%),Comment
+abca,1234a,Outstanding,042735BC3,ARROW ELECTRONICS INC20230301,,19999,20008,-9,,103.67,1,20733.58,20734.58,0,0,0,0,0,0,0,0,0,
+abcd,1234g,Outstanding,717081103,PFIZER INC,,399,455,-56,,40.61,1,16243,16244,0,0,0,0,0,0,0,0,0,
+abce,1234a,Outstanding,92826C839,VISA INC-CLASS A SHRS,,199,600,-401,,164.43,1,32885,32886,0,0,0,0,0,0,0,0,0,
+efgi,4567y,Outstanding,02079K107,ALPHABET INC-CL C,,509,99988,-99479,,1188.48,1,29711,29712,0,0,0,0,0,0,0,0,0,
+efgr,4567f,Outstanding,31162100,AMGEN INC,,996,779,217,,179.32,1,17931,17932,0,0,0,0,0,0,0,0,0,
+efgw,4567b,Outstanding,03523TBP2,ANHEUSER-BUSCH INBEV WOR20220715,,19999,20000,-1,,98.89,1,19777.1,19778.1,0,0,0,0,0,0,0,0,0,
